@@ -4,8 +4,6 @@ Repository ini berisi implementasi beberapa basic LLM use case menggunakan TypeS
 
 ## Assignment Overview
 
-![First Assignment Tasks](./docs/first-assignment.png)
-
 | Task   | Case                                                                                           |
 | ------ | ---------------------------------------------------------------------------------------------- |
 | Task 1 | Customer menanyakan kemungkinan charge dua kali dan meminta perbaikan segera.                  |
